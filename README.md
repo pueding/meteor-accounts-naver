@@ -1,5 +1,9 @@
 # pueding:accounts-naver
 
+```
+meteor add pueding:accounts-naver
+```
+
 Meteor에서 Naver login 을 지원하기 위한 패키지 입니다.
 
 [https://github.com/acidsound/meteor-accounts-naver](https://github.com/acidsound/meteor-accounts-naver) 패키지를 다음과 같은 이유로 수정하였습니다.
